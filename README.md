@@ -1,5 +1,5 @@
 <h2>Soy Alex Ivan Mikelsen</h2>
-<p><em>Web Develooper en MERN STACK</br>Jr/Trainee Developer
+<p><em>Web Develooper in MERN STACK</br>Jr/Trainee Developer
 </em></p>
 
 <br/>
@@ -16,7 +16,7 @@ const Alex = {
   pronouns: "he" | "him",
   hobbies: [Coffe, Read Books, Train and Motorcycles],
   code: [Javascript, HTML, CSS],
-  tools: [React-native, Node, MongoDB, Express],
+  tools: [React, Node, MongoDB, Express],
 }
 ```
 
