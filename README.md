@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/alex_mikelsen/?hl=es">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br/>
 
 ```javascript
 const Alex = {
