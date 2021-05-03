@@ -10,7 +10,6 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-[![GitHub AlexIvanMikelsen](https://github.com/AlexIvanMikelsen)
 
 ```javascript
 const Alex = {
