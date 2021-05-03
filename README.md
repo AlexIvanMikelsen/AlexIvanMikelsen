@@ -1,5 +1,4 @@
 <h2>Soy Alex Ivan Mikelsen</h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/25269439?s=60&v=4" width="230">
 <p><em>Web Develooper en MERN STACK</br>Jr/Trainee Developer
 </em></p>
 
@@ -14,7 +13,7 @@
 [![GitHub AlexIvanMikelsen](https://avatars.githubusercontent.com/u/25269439?v=4)](https://github.com/AlexIvanMikelsen)
 
 ```javascript
-const fran = {
+const Alex = {
   pronouns: "he" | "him",
   hobbies: [Coffe, Read Books, Train and Motorcycles],
   code: [Javascript, HTML, CSS],
