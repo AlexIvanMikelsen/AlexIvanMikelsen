@@ -15,7 +15,7 @@
 const Alex = {
   pronouns: "he" | "him",
   hobbies: [Coffe, Read Books, Train and Motorcycles],
-  code: [Javascript, HTML, CSS, Python, Mongo]
+  code: [React, HTML, CSS, Python, SQL]
 }
 ```
 
